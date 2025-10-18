@@ -1,0 +1,16 @@
+CIN,Change_Type,Field_Changed,Old_Value,New_Value,Date
+U27100MH2003PTC141580,Field Update,authorizedcapital,1000000.0,1100000.0,Day 2
+U17110MH1983PTC029304,Field Update,authorizedcapital,2500000.0,2600000.0,Day 2
+U24220MH1997PTC109781,Field Update,authorizedcapital,12500000.0,12600000.0,Day 2
+U29253MH2010PTC208018,Field Update,authorizedcapital,1000000.0,1100000.0,Day 2
+U74999DL2018PTC338321,Field Update,companystatus,Active,Strike Off,Day 2
+U63121DL2025PTC442060,Field Update,authorizedcapital,200000.0,300000.0,Day 2
+U17299MH2022PTC377029,Field Update,companystatus,Active,Strike Off,Day 2
+U74999PN2017PTC170160,Field Update,companystatus,Active,Strike Off,Day 2
+U60231MH2013PTC247302,Field Update,paidupcapital,100000.0,150000.0,Day 3
+U72300MH2007PTC168273,Field Update,paidupcapital,540000.0,590000.0,Day 3
+U72900TN2019PTC132581,Field Update,paidupcapital,100000.0,150000.0,Day 3
+U18209TN2019PTC132588,Field Update,paidupcapital,200000.0,250000.0,Day 3
+U01110MH1995PTC087071,Field Update,companystatus,Strike Off,Active,Day 3
+U74994DL1996PTC078130,Field Update,companystatus,Strike Off,Active,Day 3
+U77302MH2024PTC434498,Field Update,paidupcapital,100000.0,150000.0,Day 3
