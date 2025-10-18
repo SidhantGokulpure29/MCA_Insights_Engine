@@ -87,6 +87,11 @@ Run locally:
 ```bash
 streamlit run mca_dashboard.py
 ```
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/811d7626-0b35-4a34-a84b-2184a804db99" />
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/c855d7cd-2d97-4fbe-8cd2-4d21db899ad9" />
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/406f8301-f5f5-418d-bf9b-e01cd69ba1ed" />
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/ef0b621d-9f6e-4873-9ee3-932d93bb0d14" />
+
 --- 
 
 ## 🏗️ Architecture Overview
