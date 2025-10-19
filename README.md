@@ -80,7 +80,7 @@ Interactive dashboard features:
 - 📊 Change history visualization (Plotly)  
 - 📋 Enriched company records  
 - 🔗 Source links to ZaubaCorp  
-- 💬 Chatbot interface (rule-based or LLM-ready)
+- 💬 Streamlit interface (rule-based or LLM-ready)
 
 Run locally:
 
@@ -103,7 +103,7 @@ Each stage represents a modular component of the pipeline:
 - **Preprocessing**: Column normalization, deduplication, missing value handling
 - **Change Detection**: Field-level comparison across snapshots
 - **Enrichment**: Metadata tagging, ZaubaCorp linking, industry classification
-- **Dashboard**: Streamlit interface with search, filters, summaries, and chatbot
+- **Dashboard**: Streamlit interface with search, filters, and summaries
 
 ---
 
@@ -115,3 +115,4 @@ Planned improvements to extend functionality and impact:
 - 🧠 Add LLM-powered chatbot for natural language queries
 - 🔄 Integrate with real-time MCA feeds
 - 📈 Build summary archive and trend analytics
+
